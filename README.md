@@ -1,2 +1,2 @@
-# JS-projects--Practice
-A project Repo for Java Script
+# BasicsReact-projects--Practice
+A project Repo for React
