@@ -11,7 +11,7 @@ export default function ThemeBtn() {
         } else { 
             lightTheme()
         }
-    }
+    } 
     return (
         <label className="relative inline-flex items-center cursor-pointer">
             <input
